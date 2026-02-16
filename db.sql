@@ -1,0 +1,1 @@
+CREATE TABLE Students (ID INT, Name TEXT);
